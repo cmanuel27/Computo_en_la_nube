@@ -1,0 +1,5 @@
+﻿  SolucionSumaArreglosParalela_Cesar_Tirado.cpp
+C:\Users\cmanu\source\repos\ProyectosOpenMP\SumaArreglos\SolucionSumaArreglosParalela_Cesar_Tirado\SolucionSumaArreglosParalela_Cesar_Tirado.cpp(21,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\cmanu\source\repos\ProyectosOpenMP\SumaArreglos\SolucionSumaArreglosParalela_Cesar_Tirado\SolucionSumaArreglosParalela_Cesar_Tirado.cpp(22,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\cmanu\source\repos\ProyectosOpenMP\SumaArreglos\SolucionSumaArreglosParalela_Cesar_Tirado\SolucionSumaArreglosParalela_Cesar_Tirado.cpp(18,9): warning C4101: 'i': variable local sin referencia
+  SolucionSumaArreglosParalela_Cesar_Tirado.vcxproj -> C:\Users\cmanu\source\repos\ProyectosOpenMP\SumaArreglos\SolucionSumaArreglosParalela_Cesar_Tirado\x64\Debug\SolucionSumaArreglosParalela_Cesar_Tirado.exe
